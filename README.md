@@ -1,6 +1,6 @@
 # Tabla de contenidos
 - [JSON](#JSON)
-  - [¿Qué es JSON?](##¿Qué-es-JSON?)
+  - [¿Qué es JSON?](##¿Qué es JSON?)
   - [¿Para qué sirve un archivo JSON?](##¿Para-qué-sirve-un-archivo-JSON?)
 - - [¿Dónde se utiliza JSON?](##¿Dónde-se-utiliza-JSON?)
 - - [Ejemplos de archivos JSON](##Ejemplos-de-archivos-JSON)
