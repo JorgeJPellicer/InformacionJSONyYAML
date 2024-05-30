@@ -26,4 +26,4 @@
 # Bibliografía
 [JSON](https://blog.hubspot.es/website/que-es-json)
 
-![QUE PECHOTESSSSS](/media/alumne/Samsung 1TB/cositas/papigavi7.png)
+![QUE PECHOTESSSSS](https://piks.eldesmarque.com/bin/2021/05/18/captura_papi_gavi_betis.jpg)
