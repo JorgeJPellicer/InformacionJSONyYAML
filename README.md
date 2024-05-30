@@ -26,3 +26,4 @@
 # Bibliografía
 [JSON](https://blog.hubspot.es/website/que-es-json)
 
+![QUE PECHOTESSSSS](/media/alumne/Samsung 1TB/cositas/papigavi7.png)
