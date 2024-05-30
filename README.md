@@ -1,14 +1,14 @@
 # Tabla de contenidos
 - [JSON](#JSON)
 - - [¿Qué es JSON?](#¿Qué-es-JSON?)
-- [¿Para qué sirve un archivo JSON?](#¿Para-qué-sirve-un-archivo-JSON?)
-- [¿Dónde se utiliza JSON?](##¿Dónde-se-utiliza-JSON?)
-- [Ejemplos de archivos JSON](##Ejemplos-de-archivos-JSON)
-- - [Strings](###Strings)
-- - [Objetos](###Objetos)
-- - [Arreglos](###Arreglos)
-- - [Booleanos](###Booleanos)
-  - [Null](###Null)
+- - [¿Para qué sirve un archivo JSON?](#¿Para-qué-sirve-un-archivo-JSON?)
+- - [¿Dónde se utiliza JSON?](##¿Dónde-se-utiliza-JSON?)
+- - [Ejemplos de archivos JSON](##Ejemplos-de-archivos-JSON)
+- - - [Strings](###Strings)
+- - - [Objetos](###Objetos)
+- - - [Arreglos](###Arreglos)
+- - - [Booleanos](###Booleanos)
+  - - [Null](###Null)
 
 
 # JSON
