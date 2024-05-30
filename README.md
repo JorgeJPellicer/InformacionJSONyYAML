@@ -1,3 +1,2 @@
-# InformacionJSONyYAML
-## JSON
-
+# JSON
+## ¿Qué es JSON?
