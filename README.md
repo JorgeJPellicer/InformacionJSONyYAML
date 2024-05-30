@@ -23,7 +23,15 @@
 ### Null
 ## ¿Cómo abrir un archivo JSON?
 
+# YAML
+## ¿Qué es YAML?
+## Sintaxis de YAML
+
+# Diferencias entre JSON y YAML
+
 # Bibliografía
 [JSON](https://blog.hubspot.es/website/que-es-json)
+[YAML](https://www.redhat.com/es/topics/automation/what-is-yaml)
+[Diferencias entre JSON y YAML](https://aws.amazon.com/es/compare/the-difference-between-yaml-and-json/)
 
 ![QUE PECHOTESSSSS](https://piks.eldesmarque.com/bin/2021/05/18/captura_papi_gavi_betis.jpg)
