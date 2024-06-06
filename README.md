@@ -12,7 +12,7 @@
   - [¿Cómo abrir un archivo JSON?](#cómo-abrir-un-archivo-json)
 
 # JSON
-![YAML](https://static.vecteezy.com/system/resources/previews/015/426/183/non_2x/json-file-format-icon-json-extension-line-icon-free-vector.jpg)
+![JSON](https://static.vecteezy.com/system/resources/previews/015/426/183/non_2x/json-file-format-icon-json-extension-line-icon-free-vector.jpg)
 
 ## ¿Qué es JSON?
 JSON (JavaScript Object Notation) es un formato de texto ligero para el intercambio de datos. Es fácil de leer y escribir para los humanos, y fácil de analizar y generar para las máquinas. JSON se basa en una subconjunto del lenguaje de programación JavaScript, pero es independiente de cualquier lenguaje de programación específico. Es ampliamente utilizado en la transmisión de datos entre un servidor y una aplicación web, sirviendo como una alternativa más sencilla a XML.
@@ -73,7 +73,7 @@ Para abrir un archivo JSON, se pueden usar diversos programas y métodos:
 - Lenguajes de programación como Python, JavaScript, y otros, que tienen bibliotecas para manipular JSON.
 
 # YAML
-![YAML]([https://piks.eldesmarque.com/bin/2021/05/18/captura_papi_gavi_betis.jpg](https://static.vecteezy.com/system/resources/previews/029/148/823/original/yaml-file-format-icon-vector.jpg))
+![YAML](https://media.licdn.com/dms/image/D4D12AQGtHSb18Dvh1Q/article-cover_image-shrink_720_1280/0/1695637064391?e=2147483647&v=beta&t=wRiEJFQmw12BL5FA65i2yn18DdsYkfR3Xo4V6Kn7uuY)
 
 ## ¿Qué es YAML?
 YAML (YAML Ain't Markup Language) es un formato de serialización de datos legible para los humanos, utilizado comúnmente para archivos de configuración. Al igual que JSON, es fácil de leer y escribir, pero tiene una sintaxis más simple y limpia, lo que facilita su uso para los desarrolladores y administradores de sistemas.
