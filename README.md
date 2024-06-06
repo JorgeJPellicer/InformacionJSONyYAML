@@ -12,7 +12,7 @@
   - [¿Cómo abrir un archivo JSON?](#cómo-abrir-un-archivo-json)
  
 > [!CAUTION]
-> Leer este documento puede producir un aumento de intyelecto.
+> Leer este documento puede producir un aumento masivo de intelecto.
 
 # JSON
 ![JSON](https://static.vecteezy.com/system/resources/previews/015/426/183/non_2x/json-file-format-icon-json-extension-line-icon-free-vector.jpg)
